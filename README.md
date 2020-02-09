@@ -17,7 +17,7 @@ For example I really liked these:
 * **!bgchange TokenName**
 
 ### Config
-1. Set the name of the token on the map layer to the paramater which you want to usw
+1. Set the name of the token on the map layer to the paramater which you want to use
 2. Write "bg" into the gmnotes of the token
 
 ### Additional Info
