@@ -24,6 +24,7 @@ For example I really liked these:
 My macro:
 `!bgchange ?{daytime|night,night| day,day | sunset,sunset}`
 [see it in action](http://i.imgur.com/UPwP7AT.gif)
+[with different theme](http://i.imgur.com/BxDaPRF.gif)
 
 Because of a roll20 api limitation this will only work on the players page (the one with the ribbon). 
 
